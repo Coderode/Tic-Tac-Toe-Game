@@ -1,6 +1,7 @@
 # Tic-Tac-Toe-Game
 # Desktop application
 ## tic tac toe game build using Java Swing GUI
+# To Play : download the tictactoe.jar file (Runnable jar file) and double click to start playing
 # Requirements 
 * JDK 1.8.0_241 (Built using this version)
 ```
